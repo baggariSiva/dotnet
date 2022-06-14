@@ -8,7 +8,7 @@
 dotnet new webapp -o Project-name --no-https -f net6.0
 ```
 
-<img src="assets\dotnet2.png" alt="screenshot of the example app" width="100%" />
+<img src="assets\dotnet.png" alt="screenshot of the example app" width="100%" />
 
 
 ## CI/CD on Elestio
