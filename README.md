@@ -2,7 +2,6 @@
 
 <a href="https://dash.elest.io/deploy?source=cicd&social=Github&url=https://github.com/elestio-examples/dotnet"><img src="assets\deploy-on-elestio.png" alt="Deploy on Elest.io" width="180px" /></a>
 
-# .NET
 
 ```
 dotnet new webapp -o Project-name --no-https -f net6.0
