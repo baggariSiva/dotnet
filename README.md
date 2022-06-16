@@ -2,26 +2,31 @@
 
 <a href="https://dash.elest.io/deploy?source=cicd&social=Github&url=https://github.com/elestio-examples/dotnet"><img src="assets\deploy-on-elestio.png" alt="Deploy on Elest.io" width="180px" /></a>
 
-
-# .NET!
-
 This is a very basic example of a simple .NET app.
 
+<img src="assets\dotnet.png" alt="screenshot of the example app" width="100%" />
 
-Clone this [elestio-examples/dotnet](https://github.com/elestio-examples/dotnet) 
+# Steps to clone this repository and run locally.
+
+
+### Step 1: Clone this repository.
 
 ```
 git clone https://github.com/elestio-examples/dotnet.git
 ```
-Change into project directory.
+### Step 2: Go to project folder.
+
+```
+cd remix
+```
+
+### Step 3: Install dependencies and run your app in dev mode.
 
 ```
 dotnet run
 ```
 
-This starts your app in development mode, make the changes and push.
-
-<img src="assets\dotnet.png" alt="screenshot of the example app" width="100%" />
+### Step 4: Make some changes and push.
 
 
 ## CI/CD on Elestio
