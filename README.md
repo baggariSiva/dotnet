@@ -17,7 +17,7 @@ git clone https://github.com/elestio-examples/dotnet.git
 ### Step 2: Go to project folder.
 
 ```
-cd remix
+cd dotnet
 ```
 
 ### Step 3: Install dependencies and run your app in dev mode.
