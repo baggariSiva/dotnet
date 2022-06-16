@@ -3,9 +3,23 @@
 <a href="https://dash.elest.io/deploy?source=cicd&social=Github&url=https://github.com/elestio-examples/dotnet"><img src="assets\deploy-on-elestio.png" alt="Deploy on Elest.io" width="180px" /></a>
 
 
+# .NET!
+
+This is a very basic example of a simple .NET app.
+
+
+Clone this [elestio-examples/dotnet](https://github.com/elestio-examples/dotnet) 
+
 ```
-dotnet new webapp -o Project-name --no-https -f net6.0
+git clone https://github.com/elestio-examples/dotnet.git
 ```
+Change into project directory.
+
+```
+dotnet run
+```
+
+This starts your app in development mode, make the changes and push.
 
 <img src="assets\dotnet.png" alt="screenshot of the example app" width="100%" />
 
