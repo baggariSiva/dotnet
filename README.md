@@ -1,6 +1,6 @@
-# .NET on Elestio
+# .NET WebApp using dotnet new webapp on Elestio
 
-This is a minimal example of a .NET site created using dotnet new webapp
+This is a minimal example of a dotnet webapp created using dotnet new webapp
 
 Click on the button below to deploy this repository with CI/CD on Elestio:
 
